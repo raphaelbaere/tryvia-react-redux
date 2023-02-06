@@ -4,3 +4,4 @@ cypress/*
 src/tests/*
 coverage/*
 cypress.config.js
+src/*
